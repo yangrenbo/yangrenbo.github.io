@@ -1,9 +1,9 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 梦渚草长
+SEOTitle: 梦渚草长 - 让学习更容易
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
+email: borenyang2014@gmail.com
+description: "学而不思则罔，思而不学则殆"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
