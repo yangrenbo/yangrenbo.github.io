@@ -4,10 +4,10 @@ SEOTitle: 梦渚草长 - 让学习更容易
 header-img: img/post-bg-desk.jpg
 email: borenyang2014@gmail.com
 description: "学而不思则罔，思而不学则殆"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+keyword: "星月皎洁，明河在天，四无人声，声在树间"
+url: "https://yangrenbo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/yangrenbo/yangrenbo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  clientID: ac192470e11e65a7838a                            #生成的clientID
+  clientSecret: 384bedaa3684c182a594e89da9c0638105997a06    #生成的clientSecret
+  repo: yangrenbo.github.io    #仓库名称
+  owner: yangrenbo    #github用户名
+  admin: yangrenbo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,13 +99,13 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
+        title: "星语",
         href: "https://globien.gitee.io"
     },{
-        title: "星球语互动社区",
+        title: "互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
     },{
-        title: "知乎：人造国际语",
+        title: "知语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
